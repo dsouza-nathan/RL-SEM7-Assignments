@@ -35,11 +35,11 @@ MCTS is a planning algorithm that builds a search tree by simulating many rollou
 - RTDP is preferable when a reliable model is available and fast convergence is needed; MCTS is better for planning in unknown or very large environments.
 
 ---
-## Proof of Execution
+## RTDP Output Example
 
-Below is a screenshot showing the output of running `main.py` with RTDP:
+Below is a screenshot showing the output of running `main.py` with RTDP (steps-to-goal and total reward for multiple episodes):
 
-![RTDP Output](attachment:image)
+![RTDP Output]![alt text](image.png)
 
 ---
 
